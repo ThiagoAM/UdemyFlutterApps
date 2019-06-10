@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "538393978580",
+    "firebase_url": "https://chatonlineflutterudemy.firebaseio.com",
+    "project_id": "chatonlineflutterudemy",
+    "storage_bucket": "chatonlineflutterudemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538393978580:android:2ae42a17609acc24",
+        "android_client_info": {
+          "package_name": "br.com.thiagoam.chat_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538393978580-dme74umus6rdlqdcqel21poins4nduo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.thiagoam.chat_online",
+            "certificate_hash": "e51635c826fef009668aeed2ec35a9f5ab881779"
+          }
+        },
+        {
+          "client_id": "538393978580-pjvdhnidiuh4gkf3beg94lk1ekekojvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDokmeCPXYL8b47Tvc6TqlF55-aqWYq_JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538393978580-pjvdhnidiuh4gkf3beg94lk1ekekojvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

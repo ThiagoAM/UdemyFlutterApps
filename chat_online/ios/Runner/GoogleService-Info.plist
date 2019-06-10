@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>538393978580-pe99na0234pkiq5dig4dej60p7mdlfjm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.538393978580-pe99na0234pkiq5dig4dej60p7mdlfjm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>538393978580-dme74umus6rdlqdcqel21poins4nduo2.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDc7KfJ3CX6KJwja5sLbf1QZT1Y2a2DFRw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>538393978580</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>br.com.thiagoam.chatOnline</string>
+	<key>PROJECT_ID</key>
+	<string>chatonlineflutterudemy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chatonlineflutterudemy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:538393978580:ios:5c597efd52f2a288</string>
+	<key>DATABASE_URL</key>
+	<string>https://chatonlineflutterudemy.firebaseio.com</string>
+</dict>
+</plist>
