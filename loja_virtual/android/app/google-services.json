@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "629943569139",
+    "firebase_url": "https://lojaflutterudemy.firebaseio.com",
+    "project_id": "lojaflutterudemy",
+    "storage_bucket": "lojaflutterudemy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629943569139:android:8553738bc1d3a689",
+        "android_client_info": {
+          "package_name": "br.com.thiagoam.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629943569139-mpqrajhk4c734p60kg0dv6v36onhk6p2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4rU_6vTm9Iv5A2VEm9G1Xj2fLLE-o7nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629943569139-mpqrajhk4c734p60kg0dv6v36onhk6p2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
